@@ -1,10 +1,9 @@
 # Personal-Portfolio
 Components:
 1)Home Screen
-![image](https://github.com/dhvani-gupta/Personal-Portfolio/assets/63143690/adc3d796-15d4-4cc0-92bc-7acf6b3c6c63)
-
+![Screenshot (207)](https://github.com/bhumikachinta/My_Portfolio/assets/126902252/6ffe9378-e2f2-483f-90ec-3c562299ca26)
 2)About
-![image](https://github.com/dhvani-gupta/Personal-Portfolio/assets/63143690/081a1069-8a02-41e6-b6cc-492cb9871c2c)
+![Screenshot (208)](https://github.com/bhumikachinta/My_Portfolio/assets/126902252/4d525a21-dcdf-4501-a6d7-1e489e38f10b)
 
 3) Skills
 
