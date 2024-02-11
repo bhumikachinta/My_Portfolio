@@ -10,4 +10,4 @@ Components:
 4) Education
 5) Projects
 6)Contact
-## Watch the Live [Demo](https://drive.google.com/file/d/1xAWq-pT7tS2-DXJGxEryrN-YOJy7Oi8j/view)
+## Watch the Live [Demo](https://chinta-bhumika-portfolio.netlify.app/)
